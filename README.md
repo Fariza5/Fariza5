@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Fariza
 
+Computer Science student focused on backend development and algorithms.  
+Currently building projects and working on becoming a strong software engineer.
+
+## 💻 Tech Focus
+- Data Structures & Algorithms
+- Backend Development
+- Databases
+
+## 🚀 Current Goals
+- Build real-world projects
+- Gain practical experience
+- Improve problem-solving skills
+
+## 📫 Reach me
+- Email: your-email@example.com
 <!--
 **Fariza5/Fariza5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
